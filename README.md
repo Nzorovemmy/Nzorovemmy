@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nzorov emmanuel
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 🌱 I’m a web developer 
 - 📫 How to reach me nzorovemmanuel@gmail.com
 
 <!---
